@@ -76,9 +76,10 @@ public final class ConfigurationFile {
 	//public static String INSTANCE_TOPOLOGY=null;
 	
 	//public static String INSTANCE_TOPOLOGY="resources/topology/map2020-topologyExam1-graph.dgs";
+//	public static String INSTANCE_TOPOLOGY="resources/hunt/map2020-entitiesGraph";
 	//public static String INSTANCE_TOPOLOGY="resources/topology/HouatTopology";
-	//public static String INSTANCE_TOPOLOGY="resources/topology/map2018-topology-ica";
-	public static String INSTANCE_TOPOLOGY="resources/topology/map2020-topologyExam1-tree.dgs";
+	public static String INSTANCE_TOPOLOGY="resources/topology/map2018-topology-ica";
+	//public static String INSTANCE_TOPOLOGY="resources/topology/map2020-topologyExam1-tree.dgs";
 	//public static String INSTANCE_TOPOLOGY="resources/interlocking/mapInterlocking2-topology";
 	//public static String INSTANCE_TOPOLOGY="resources/map2018-topology";
 	//public static String INSTANCE_TOPOLOGY="resources/map2019-topologyExam1";
@@ -132,7 +133,7 @@ public final class ConfigurationFile {
 	 */
 	
 	public static boolean ACTIVE_WELL=false;
-	public static boolean ACTIVE_GOLD=true;
+	public static boolean ACTIVE_GOLD=false;
 	public static boolean ACTIVE_DIAMOND=false;
 
 	/************************************
@@ -149,7 +150,11 @@ public final class ConfigurationFile {
 	//public static String INSTANCE_CONFIGURATION_ENTITIES="resources/agentExplo";
 	//public static String INSTANCE_CONFIGURATION_ENTITIES="resources/agentExplo-2";
 	//public static String INSTANCE_CONFIGURATION_ENTITIES="resources/agentExploCoop-2";
-	public static String INSTANCE_CONFIGURATION_ENTITIES="resources/agentExploCoop-2.json";
+//	public static String INSTANCE_CONFIGURATION_ENTITIES="resources/agentExploCoop-2.json";
+	public static String INSTANCE_CONFIGURATION_ENTITIES="resources/agentFSMExploCoop-2-ctrl.json";
+//	public static String INSTANCE_CONFIGURATION_ENTITIES="resources/agentFSMExploCoop-6-Wumpus.json";
+//	public static String INSTANCE_CONFIGURATION_ENTITIES="resources/agentFSMExplo-2-Ctrl-1stench";
+
 	//public static String INSTANCE_CONFIGURATION_ENTITIES="resources/agentKeyboardControlled";
 	//public static String INSTANCE_CONFIGURATION_ENTITIES="resources/hunt/map2020-entitiesTree";
 	//public static String INSTANCE_CONFIGURATION_ENTITIES="resources/hunt/map2020-entitiesGraph";

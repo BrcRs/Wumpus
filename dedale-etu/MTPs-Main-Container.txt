@@ -1,1 +1,1 @@
-http://Ithaq-pro:7778/acc
+http://192.168.1.20:7778/acc
