@@ -1,5 +1,6 @@
 # Welcome to the Dedale project.
 > read 12-Rose-Abreu.pdf for details (french).
+
 This project is developed at Sorbonne University, Paris, France. It is used in both research and teaching activities. Considering the later, during the FoSyMa course (from the French “Fondement des Systèmes Multi-Agents”) as a practical application of Multi-Agents Systems (MAS). 
 It allows Master's students to obtain a first-hand experience of some of the nice (and sometimes difficult) characteristics that comes with agents and distributed systems :
  - distribution and asynchronism (system and communication),
